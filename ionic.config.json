@@ -1,5 +1,7 @@
 {
   "name": "useragent-old",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
